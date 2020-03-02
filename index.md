@@ -1,7 +1,3 @@
----
-layout: page
-title: Home
----
 
 ![NonJo-logo](pic_ninjo_logo.png)
 
