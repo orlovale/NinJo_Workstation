@@ -1,3 +1,9 @@
+---
+layout: page
+title: Technical Information
+
+---
+
 #Technical Information
 
 NinJo was developed by a consortium of National Meteorological Services with assistance of experienced IT companies.
