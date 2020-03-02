@@ -5,4 +5,4 @@ description: Copyright 2018 NinJo Workstation
 
 # Build settings
 markdown: kramdown
-remote_theme: Ion-Jekyll-Theme
+theme: minima
