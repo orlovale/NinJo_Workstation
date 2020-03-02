@@ -6,3 +6,5 @@ description: Copyright 2018 NinJo Workstation
 # Build settings
 markdown: kramdown
 theme: minima
+plugins:
+- jekyll-menus
