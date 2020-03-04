@@ -19,7 +19,7 @@ nav ul {
 
 nav ul li {
     display: table-cell;
-    padding: 0px;
+    padding: 0px 15px 0px 0px;
     width: max-content;
 }
 body#intro a#intro,
