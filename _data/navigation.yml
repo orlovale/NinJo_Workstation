@@ -1,7 +1,10 @@
 - title: Home
   url: /
+  group: navigation
   sublinks:
     - title: Overview
       url: /overview.html
+      group: navigation
     - title: Features
       url: /features
+      group: navigation
