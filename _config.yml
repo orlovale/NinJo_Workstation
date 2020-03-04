@@ -1,7 +1,7 @@
 # basic options
 title: NinJo Workstation
 author: Alexey Orlov
-description: Copyright  \`r format(Sys.time(), '%Y')\` NinJo Workstation
+description: Copyright  \`r format(Sys.time(), '%Y')`\ NinJo Workstation
 
 # Build settings
 markdown: kramdown
