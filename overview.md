@@ -4,7 +4,6 @@ title: Overview
 menu:
   header:
     weight: 2
-    title: ''
   home:
     weight: 1
 
