@@ -2,7 +2,7 @@
 layout: page
 title: Features
 ---
-{% include navigation.html %}
+{% include navbar.html %}
 
 The basic visualisation concept of NinJo is the presentation of data in separate layers. Users can add as many layers to a NinJo scene as they want (restricted only by memory amount of hardware). All layers show time-synchronised data for the same map area in the so-called NinJo scenes.
 
