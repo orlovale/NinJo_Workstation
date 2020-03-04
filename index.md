@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 {% include navbar.html %}
 ![NonJo-logo](pic_ninjo_logo.png)
 
