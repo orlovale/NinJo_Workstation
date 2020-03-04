@@ -6,8 +6,6 @@ menu:
     weight: 2
   home:
     weight: 1
-
-navigation_weight: 1
 ---
 
 
