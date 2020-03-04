@@ -21,7 +21,7 @@ nav ul {
 nav ul li {
     display: table-cell;
     padding: 0px;
-    width: auto;
+    width: 100px;
 }
 body#intro a#intro,
 body#cont a#cont,
