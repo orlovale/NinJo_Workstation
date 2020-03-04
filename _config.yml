@@ -1,5 +1,5 @@
 # basic options
-
+title: 
 author: Alexey Orlov
 description: Copyright  \`r format(Sys.time(), '%Y')`\ NinJo Workstation
 
