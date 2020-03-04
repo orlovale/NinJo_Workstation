@@ -3,7 +3,7 @@ nav {
    display: table;
   table-layout: fixed;
   width: 100%;
-  height: 20px;
+  height: 50px;
   border-collapse: collapse;
   border: none;
   margin: 0px 0px 60px;
@@ -31,7 +31,7 @@ body#tutor a#tutor,
 body#cli a#cli,
 body#help a#help {
   color: #202020;
-  background: #808AAA;
+  background: #fffff;
 }
 
 nav ul li a {
