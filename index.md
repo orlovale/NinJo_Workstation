@@ -3,7 +3,7 @@
 {% include navbar.html %}
 ![NonJo-logo](pic_ninjo_logo.png)
 
-# NinJo Workstation Software Highlights 1
+# NinJo Workstation Software Highlights 
 
 The NinJo Workstation System showing different types of meteorological data
 
