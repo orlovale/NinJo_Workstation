@@ -80,7 +80,7 @@ nav ul ul {
 
 nav ul ul li {
   width: max-content;
-  height: auto;
+  height: 25px;
   padding: 0px;
   display: block;
 }
