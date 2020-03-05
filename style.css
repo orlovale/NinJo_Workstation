@@ -17,7 +17,7 @@ nav ul {
     padding: 0px;
     display: table-row;
     position: relative;
-    bottom: 20px;
+    bottom: 10px;
 }
 
 nav ul li {
@@ -30,6 +30,8 @@ nav ul li {
 nav ul li img {
     margin: 15px 15px 0px 0px;
     height: 60px;
+   position: relative;
+   top: 15;
 }
 body#intro a#intro,
 body#cont a#cont,
