@@ -69,7 +69,7 @@ nav ul li a:active {
 nav ul ul {
   display: none;
   margin-left: -20px;    /* move drop down list to the left */
-  
+  width: 100px;
 }
 
 nav ul ul li {
