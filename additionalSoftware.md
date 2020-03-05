@@ -2,6 +2,8 @@
 
 {% include navbar.html %}
 
+<p style="margin: 60px 0px 0px 0px;" />
+
 # GloBUS - Decoding meteorological messages
 GloBUS is a modern coding/decoding system that is adopted for central decoding of weather reports of different codes (mainly point data formats such as SYNOP, TEMP, PILOT and METAR). Decoded input reports can be transferred to different output formats, such as BUFR Edition 3 or BUFR Edition 4. For the creation of BUFR output reports, the new BURF templates proposed by WMO are supported. GloBUS4NinJo creates a special CORBA object and provides it for the NinJo import systems.
 
