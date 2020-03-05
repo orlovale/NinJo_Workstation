@@ -50,7 +50,7 @@ nav ul li a {
   line-height: 30px;
   margin: 0px 15px 0px 0px;
   display: block;
-  width: max-content;
+  width: fit-content;
   background: #ffffff; 
   }
   
