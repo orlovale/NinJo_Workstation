@@ -26,7 +26,7 @@ nav ul li {
 
 nav ul li img {
     margin: 15px 0px 0px 0px;
-   width: 80px
+   width: 100px
 }
 body#intro a#intro,
 body#cont a#cont,
@@ -41,7 +41,7 @@ body#help a#help {
 
 nav ul li a {
   text-align: center;
-  height: 45px;
+  height: 50px;
   padding: 4px 15px 0px 15px;
   display: block;
   width: max-content;
