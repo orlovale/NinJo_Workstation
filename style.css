@@ -42,8 +42,9 @@ body#help a#help {
 
 nav ul li a {
   text-align: center;
-  height: 30px;
-  padding: 4px 15px 0px 15px;
+  height: 30px;  
+  line-height: 30px;
+  white-space: nowrap;
   display: block;
   width: max-content;
   background: #ffffff; /* Old browsers */
