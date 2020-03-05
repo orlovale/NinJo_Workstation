@@ -3,7 +3,6 @@ nav {
    display: table;
   table-layout: fixed;
   height: 30px;
-  line-height: 30px;
   border-collapse: collapse;
   border: none;
   /*margin: 0px 0px 60px;*/
@@ -22,7 +21,8 @@ nav ul {
 nav ul li {
     display: table-cell;
     margin: 0px 15px 0px 0px;
-    width: max-content;
+    width: max-content;    
+    line-height: 30px;
 }
 
 nav ul li img {
