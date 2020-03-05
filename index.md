@@ -4,7 +4,7 @@
 
 
 
-<img src="pic_ninjo_logo.png" style="margin: 30px 0px 0px 0px" alt="NinJo Logo">
+<img src="pic_ninjo_logo.png" style="margin: 30px 0px 0px 0px;" alt="NinJo Logo">
 
 # NinJo Workstation Software Highlights 
 
