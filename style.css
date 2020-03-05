@@ -26,7 +26,7 @@ nav ul li {
 }
 
 nav ul li img {
-    margin: 0px 15px 15px 0px;
+    margin: 15px 15px 15px 0px;
     height: 30px;
 }
 body#intro a#intro,
@@ -80,7 +80,7 @@ nav ul ul {
 
 nav ul ul li {
   width: max-content;
-  height: 20px;
+  height: auto;
   padding: 0px;
   display: block;
 }
