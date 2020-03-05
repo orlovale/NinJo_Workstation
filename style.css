@@ -22,6 +22,10 @@ nav ul li {
     margin: 0px 15px 0px 0px;
     width: max-content;
 }
+
+nav ul li img {
+    margin 15px 0px 0px 0px;
+}
 body#intro a#intro,
 body#cont a#cont,
 body#net a#net,
