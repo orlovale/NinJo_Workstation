@@ -3,7 +3,7 @@
 {% include navbar.html %}
 
 
-![NonJo-logo](pic_ninjo_logo.png)
+
 <img src="pic_ninjo_logo.png" style="margin: 30px 0px 0px 0px" alt="NinJo Logo">
 
 # NinJo Workstation Software Highlights 
