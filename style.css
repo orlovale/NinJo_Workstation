@@ -44,7 +44,7 @@ nav ul li a {
   text-align: center;
   height: 30px;  
   line-height: 30px;
-  margin: 0px 15px 15px 0px;
+  margin: 0px 15px 0px 0px;
   display: block;
   width: max-content;
   background: #ffffff; /* Old browsers */
