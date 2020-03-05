@@ -23,7 +23,7 @@ nav ul li {
     display: table-cell;
     padding: 0;    
     margin: 0px 15px 0px 0px;
-    width: fit-content
+    width: min-content
 }
 
 nav ul li img {
