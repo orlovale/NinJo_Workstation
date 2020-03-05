@@ -3,6 +3,7 @@ nav {
    display: table;
   table-layout: fixed;
   height: 30px;
+  line-height: 30px;
   border-collapse: collapse;
   border: none;
   /*margin: 0px 0px 60px;*/
@@ -41,7 +42,7 @@ body#help a#help {
 
 nav ul li a {
   text-align: center;
-  height: 50px;
+  height: 30px;
   padding: 4px 15px 0px 15px;
   display: block;
   width: max-content;
