@@ -1,3 +1,9 @@
+<link href="style.css" rel="stylesheet">
+
+{% include navbar.html %}
+
+<p style="margin: 60px 0px 0px 0px;" />
+
 # NinJo Publications
 
 This page contains a collection of some scientific publications of the NinJo Workstation software and related systems.
