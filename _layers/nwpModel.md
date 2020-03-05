@@ -6,7 +6,7 @@
 
 # NWP-Model Layer
 
-The NWP-Model Layer displays data of all numerical weather prediction (NWP) models, such as GME, GFS or ECMWF. Click here for a complete list of integrated models.
+The NWP-Model Layer displays data of all numerical weather prediction (NWP) models, such as GME, GFS or ECMWF. [Click here for a complete list of integrated models.](technicalInformation.html)
 
 Furthermore, calculated elements, e.g., precipitation sums or differences, can be displayed directly.
 
