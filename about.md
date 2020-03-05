@@ -2,7 +2,7 @@
 
 {% include navbar.html %}
 
-<p style="margin: 35px 0px 0px 0px;" />
+<p style="margin: 38px 0px 0px 0px;" />
 
 # About this website
 
