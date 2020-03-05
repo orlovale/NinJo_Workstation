@@ -2,7 +2,7 @@
 
 {% include navbar.html %}
 
-<p style="margin: 38px 0px 0px 0px;" />
+<p style="margin: 45px 0px 0px 0px;" />
 
 # About this website
 
@@ -10,17 +10,12 @@
 
 **The website is coordinated by**
 
-EuMetSys
-
-c/o EBP Deutschland GmbH
-
-Am Hamburger Bahnhof 4
-
-D-10557 Berlin
-
-Phone +49 30 120 86 82-0
-
-info(at)ebp.de
+EuMetSys<br/>
+c/o EBP Deutschland GmbH<br/>
+Am Hamburger Bahnhof 4<br/>
+D-10557 Berlin<br/>
+Phone +49 30 120 86 82-0<br/>
+info(at)ebp.de<br/>
 
 **Design**
 
