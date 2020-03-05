@@ -1,15 +1,35 @@
+<link href="style.css" rel="stylesheet">
+
+{% include navbar.html %}
 ---
 layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+# About this website
 
-Reasons:
-- its great.
-- its a test.
+[NinJo Workstation](index)is the official website of the NinJo Workstation Project. It contains General information on the NinJo Workstation software and related software systems as well as information for NinJo customers and will serve as a platform for information exchange in the future. Co-ordination of the website is done by EuMetSys.  Please see Member Services to get an overview over the NinJo Consortium Partners.
 
-## Other thoughts
+**The website is coordinated by**
 
-This is great.
+EuMetSys
+c/o EBP Deutschland GmbH
+Am Hamburger Bahnhof 4
+D-10557 Berlin
+Phone +49 30 120 86 82-0
+info(at)ebp.de
+
+**Design**
+Alexey Orlov
+
+**Legal aspects**
+
+Information is the main object of the website of the NinJo Workstation Project. We do not assume any responsibility for the accurateness or completeness of any content.
+
+Any content on this website is copyright protected by EBP Deutschland GmbH or one of the NinJo Consortium partners. Neither code nor content may be copied or used in any other way.
+
+All address information will only be used by EuMetSys and the NinJo Consortium. Address information will not be given to third parties.
+
+On our website you will find some links which will lead you to other websites. EuMetSys c/o EBP Deutschland GmbH has not reviewed these websites and does not assume any responsibility for their content.
+
+The screenshots on this website were taken from the appropriate software systems and are under copyright. All rights reserved.
