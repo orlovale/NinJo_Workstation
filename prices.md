@@ -1,3 +1,9 @@
+<link href="style.css" rel="stylesheet">
+
+{% include navbar.html %}
+
+<p style="margin: 60px 0px 0px 0px;" />
+
 # Contact
 
 If you are interested in the NinJo workstation, need further product and licensing information, please do not hesitate to contact us.
