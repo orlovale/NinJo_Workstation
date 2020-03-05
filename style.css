@@ -9,6 +9,7 @@ nav {
   position: fixed; 
   top: 0px;
   z-index: 10; 
+   background-color: #ffffff
 }
 
 nav ul {
