@@ -14,7 +14,7 @@ This page contains a collection of some scientific publications of the NinJo Wor
 [16th Workshop](https://www.ecmwf.int/en/learning/workshops/open-data-week-at-ecmwf) on Meteorological Operational Systems (MOS) at ECMWF, Reading, England, 1-3 March 2017
 
 Abstract: Traditionally, for NWP data visualization, NinJo generates iso-lines and iso-areas in the latitude/longitude coordinate system. For the purpose of avoiding numerical problems using such an approach, a virtual Cartesian grid was invented which lies within the reference system of the screen that should display the data. The NWP data is point-wise transformed onto that so-called canvas-grid. The talk will focus on the generation of the grid. It will outline the advantages and disadvantages of such an approach and discuss means of caching of intermediate results.<br/>
-See <a href="p1.pdf">full Presentation</a>: (2.5 MB)
+See <a href="presentations/p1.pdf">full Presentation</a>: (2.5 MB)
 
 ## Lehmann, Werner: Java, Play und Akka ##
 
