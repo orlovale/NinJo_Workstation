@@ -14,25 +14,23 @@ This page contains a collection of some scientific publications of the NinJo Wor
 [16th Workshop](https://www.ecmwf.int/en/learning/workshops/open-data-week-at-ecmwf) on Meteorological Operational Systems (MOS) at ECMWF, Reading, England, 1-3 March 2017
 
 Abstract: Traditionally, for NWP data visualization, NinJo generates iso-lines and iso-areas in the latitude/longitude coordinate system. For the purpose of avoiding numerical problems using such an approach, a virtual Cartesian grid was invented which lies within the reference system of the screen that should display the data. The NWP data is point-wise transformed onto that so-called canvas-grid. The talk will focus on the generation of the grid. It will outline the advantages and disadvantages of such an approach and discuss means of caching of intermediate results.<br/>
-See <a href="presentations/p1.pdf">full Presentation</a>: (2.5 MB)
+See <a href="presentations/p1.pdf">full presentation</a>: (2.5 MB)
 
 ## Lehmann, Werner: Java, Play und Akka ##
 
-JavaSpectrum Article Issue 3 2016 in German language.
+JavaSpectrum <a href="presentations/p2.pdf">Article</a> Issue 3 2016 in German language.
 
 Abstract: Java, Akka und Play kommen beim Deutschen Wetterdienst für das operationelle meteorologische Arbeitsplatzsystem und für einen Archivzugriff zum Einsatz. Die Herausforderungen dabei: sehr große Datenmengen, sehr heterogene Datenformate, wenig verbindliche Standards, hohe fachliche Komplexität von Daten und Metadaten, sehr heterogene zeitliche Auflösungen, mangelnde Datenqualität von „Altdaten“.
-
-See the Article.
-
  
-Kalesse: The NinJo Team Story
+## Kalesse: The NinJo Team Story ##
 
-15th Workshop on Meteorological Operational Systems (MOS) at ECMWF, Reading, England, 28-30 September 2015
+[15th Workshop](https://www.ecmwf.int/en/learning/workshops-and-seminars/past-workshops/visualisation-meteorology-week-2015) on Meteorological Operational Systems (MOS) at ECMWF, Reading, England, 28-30 September 2015
 
 Abstract: All about the NinJo roles and collaboration in an international consortium.
 
-See full Presentation: (2.9 MB)
-Schumann: COSMO-DE EPS - A new way of predicting severe convection
+See <a href="presentations/p3.pdf">full presentation</a>: (2.9 MB)
+
+## Schumann: COSMO-DE EPS - A new way of predicting severe convection ##
 
 14th Workshop on Meteorological Operational Systems at ECMWF, Reading, England, 18-20 November 2013
 
