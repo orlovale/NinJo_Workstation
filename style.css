@@ -7,7 +7,8 @@
    position: fixed; /*Stays always on top of the page. Not affected by scrolling.*/
    top: 0px;
    width: 100%;
-   border: 4px double black;
+   border: 4px black;
+   border-style: none none double none;
 }
 #navbar ul { 
    display: none; 
