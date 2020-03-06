@@ -40,12 +40,12 @@
 #navbar ul li { 
    float: none; }
 #navbar li:hover { 
-   background-color: #5778db; 
+   background-color: #1A3C8A; 
    color: #ffffff
    font-weight: bold
 }
 #navbar ul li:hover { 
-   background-color: #5778db; 
+   background-color: #1A3C8A; 
    color: #ffffff
    font-weight: bold
 }
@@ -55,3 +55,6 @@
    margin: 0px 8px 0px 8px;
 }
 
+#navbar li a:hover{
+   color: #ffffff
+}
