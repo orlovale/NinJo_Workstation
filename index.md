@@ -26,3 +26,6 @@ The NinJo Workstation Software is an ultramodern meteorological workstation syst
 
 NinJo is immediately usable without altering code. 
 
+Are you interested in more? Please read the [Overview](overview.html) for a brief introduction.
+
+NinJo is the outcome of a successful [international collaboration](members.html) by various meteorological services with support from experienced IT companies.
