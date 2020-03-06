@@ -16,3 +16,15 @@ The NinJo Main Window provides the framework for various areas of operation. It 
 NinJo also offers a sophisticated time control and animation tool to display the dynamic changes of meteorological features.
 
 Apart from the interactive generation of products in the NinJo Client, you can also generate products automatically with NinJo Batch.
+
+The [features](features.html) of NinJo
+
+- Multi-window technology
+- Layer-based visualisation
+- Animations
+- Graphical Editor
+- Configuration
+- Applications
+- Meteograms, cross sections and sounding diagrams
+
+A typical NinJo Workstation on the forecaster's desktop uses two screens. On the wide screen in the background, the weather situation is presented in an animation to provide an overview for all forecasters in the office. 
