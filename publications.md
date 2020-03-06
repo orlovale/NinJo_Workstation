@@ -63,7 +63,3 @@ Abstract: NinJo is a collaborative meteorological forecaster visualization works
 
 The consortium members use radar in different ways – for weather surveillance, for severe weather and for hydrological applications – and have different radar products that reflect these applications. The project must resolve the diverse requirements and also combine the products and outputs from diverse legacy radar processing systems, scan strategies, products and data formats. In addition, processing of radar products from neighboring countries is also a requirement. The system uses composites (pre-generated or generated on the fly) in the main scene with “drill down” capability to either single radar products, to cell views, to vertical profiles, to cross-sections and to probe data. Using the geo-referencing data concept, the radar data can be visually (and can be mathematically) combined with other meteorological and non-meteorological data for efficient and effective decision-making and forecast production.
 See complete <a href="presentations/p5.pdf">document</a>: (3,1 MB)
-
-## Java Advanced Imaging in Action - NinJo ##
-
-Java Advanced Imaging API Customer Success Stories, Oracle (formerly known as Sun Developers Network (SDN)), Online-Reference
