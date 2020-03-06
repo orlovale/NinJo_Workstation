@@ -2,6 +2,7 @@
 #navbar { 
    height: 60px; 
    padding-left: 25px;
+   background: #ffffff;
    min-width: 470px;
    position: fixed; /*Stays always on top of the page. Not affected by scrolling.*/
    top: 0px;
