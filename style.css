@@ -1,7 +1,7 @@
 
 nav {
    display: table; /*behaves like a table*/
-  table-layout: fixed;
+  table-layout: auto;
   height: 30px;
   border-collapse: collapse;
   border: none;
