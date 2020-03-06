@@ -34,3 +34,10 @@
 #navbar ul li { float: none; }
 #navbar li:hover { background-color: #D9D9D9;; }
 #navbar ul li:hover { background-color: #D9D9D9; }
+
+#navbar ul li img {
+    margin: 15px 15px 0px 0px;
+    height: 60px;
+   position: relative;
+   top: 15;
+}
