@@ -34,7 +34,7 @@
    color: #000000
   text-decoration: none;
   text-align: center;
-  margin: 0px 8px 0px 8px;
+  margin: 15px 8px 0px 8px;
 }
 
 #navbar ul li { 
@@ -44,5 +44,6 @@
 #navbar li ul li {
    border: 1px black;
    border-style: none none solid none;
+   margin: 0px 8px 0px 8px;
 }
 
