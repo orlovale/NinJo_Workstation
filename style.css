@@ -1,9 +1,11 @@
 
 #navbar { 
-   height: 50px; 
+   height: 60px; 
    background-color: #ffffff;
    padding-left: 25px;
    min-width: 470px;
+   position: fixed; /*Stays always on top of the page. Not affected by scrolling.*/
+   top: 0px;
 }
 #navbar ul { 
    display: none; 
@@ -25,7 +27,7 @@
 #navbar li a {
   display: block;
   padding: 6px;
-  width: 100px;
+  width: 150px;
    color: #000000
   text-decoration: none;
   text-align: center;
