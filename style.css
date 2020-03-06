@@ -6,7 +6,7 @@ nav {
   border-collapse: collapse;
   border: none;
   /*margin: 0px 0px 60px;*/
-  position: fixed; 
+  position: fixed; /*Stays always on top of the page. Not affected by scrolling.*/
   top: 0px;
   z-index: 10; 
    background-color: #ffffff;
