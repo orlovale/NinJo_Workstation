@@ -6,6 +6,7 @@
    min-width: 470px;
    position: fixed; /*Stays always on top of the page. Not affected by scrolling.*/
    top: 0px;
+   width: 100%;
 }
 #navbar ul { 
    display: none; 
