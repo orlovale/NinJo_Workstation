@@ -51,8 +51,13 @@ body {
 .nav_item {
     margin-right: 50px;
 }
+
 .nav_item:last-child{
     margin-right: 0;
+}
+
+.nav_item ul {
+
 }
 
 .nav_link {
@@ -61,6 +66,13 @@ body {
     font-size: 18px;
     font-weight: 500;
     line-height: 1;
+}
+
+.nav_item ul { 
+   display: none; 
+   position: absolute;
+   top: 100%;
+   background-color: #ffffff;
 }
 
 .nav_link:hover{
