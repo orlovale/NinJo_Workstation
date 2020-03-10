@@ -2,6 +2,8 @@
 .topnav {
     background-color: #ffffff;
     overflow: hidden;
+ display: flex;
+  flex-direction: row;
 }
 #logo {
  height: 70px;
