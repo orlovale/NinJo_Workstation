@@ -9,7 +9,7 @@
     />
   </head>
 
-{% include navbar.html %}
+{% include header.html %}
 
 
 
