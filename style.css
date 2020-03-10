@@ -71,7 +71,7 @@ body {
    top: 100%;
    background-color: #ffffff;
 }
-.nav_item li:hover ul {
+.nav_item ul:hover ul {
   display: block; 
 }
 
