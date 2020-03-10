@@ -56,6 +56,9 @@ body {
     margin-right: 0;
 }
 
+.nav_item ul {
+
+}
 
 .nav_link {
     color: black;
@@ -66,13 +69,10 @@ body {
 }
 
 .nav_item ul { 
-   display: none;                               /*     <--------    */
+   display: none; 
    position: absolute;
    top: 100%;
    background-color: #ffffff;
-}
-.nav_item ul:hover ul {
-  display: block; 
 }
 
 .nav_link:hover{
