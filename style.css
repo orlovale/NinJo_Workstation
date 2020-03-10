@@ -10,19 +10,6 @@
    border: 4px black;
    border-style: none none double none;
 }
-#nav-wrapper {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  padding-top: 70px;
-  width: 1170px;
-  margin-left: auto;
-  margin-right: auto;
-
-  background-color: white;
-}
-
 #navbar ul { 
    display: none; 
    position: absolute;
