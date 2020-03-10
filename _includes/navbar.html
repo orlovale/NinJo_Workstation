@@ -1,22 +1,31 @@
- <ul id="navbar" style="style.css">
-		 <li>
-		   <img src="Nj_s.png" alt="NinJo-Logo" height="55">
-		 </li> 
-	 	<li/>
-		<li><a href="index">Home</a>
-			<ul>
-				<li><a href="overview.html">Overview</a></li>
-				<li><a href="features.html">Features</a></li>
-				<li><a href="technicalInformation.html">Technical information</a></li>
-				<li><a href="softwareEditions.html">Software editions</a></li>
-				<li><a href="prices.html">Prices</a></li>
-				<li><a href="publications.html">Publications</a></li>
-			</ul>
-		</li>
-		<li><a href="about.html">About</a></li>
-		<li><a href="additionalSoftware.html">Additional software</a></li>
-		<li><a href="members.html">Project members</a></li>
-	</ul>
+ <div class="topnav" id="myTopnav" style="style.css">
+  <a href="#home" class="active">Home</a>
+	<div class="dropdown">
+    <button class="dropbtn">Home
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Overviev</a>
+      <a href="#">Features</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div> 
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> 
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+} 
+</script>
 <!--
 <div class="navbar" style="style.css">
   
