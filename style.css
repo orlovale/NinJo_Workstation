@@ -5,6 +5,7 @@ body {
 .header {
   width: 100%;
   height: 150px;
+  background-color: #ffffff;
 }
 
 .container {
@@ -13,7 +14,7 @@ body {
   width: 1170px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #ffffff;
+  
 }
 
 .logo{
