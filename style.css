@@ -13,7 +13,7 @@
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #1A3C8A;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -22,7 +22,7 @@
 
 /* Add an active class to highlight the current page */
 .active {
-    background-color: #4CAF50;
+    background-color: #ffffff;
     color: white;
 }
 
