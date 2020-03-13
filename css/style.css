@@ -3,7 +3,12 @@ body{
   font-family: Arial, Helvetica, sans-serif; 
   margin 0;
 }
-.content, 
+.content p{
+  width: 100%;
+ max-width: 1100px;
+ margin: 0 auto;
+}
+
 .bigLogoOnMainPage{
   width: 100%;
  max-width: 1100px;
