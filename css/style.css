@@ -135,7 +135,9 @@ body{
     width: fit-content;
   }
   .topnav.responsive {
-    position: relative;
+    position: relative;    
+    width: fit-content;
+    margin: 0;
   }
   .topnav.responsive a.icon {
     position: absolute;
