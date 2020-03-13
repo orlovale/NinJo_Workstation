@@ -5,4 +5,3 @@ description: Copyright  \`r format(Sys.time(), '%Y')`\ NinJo Workstation
 
 # Build settings
 markdown: kramdown
-theme: minima
