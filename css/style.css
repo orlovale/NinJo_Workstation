@@ -131,6 +131,7 @@ body{
 footer{
  background-color: #11bbff; 
   height: 35px;
+  border-width: 1px;
   border-style: solid none none none;
   margin: 0;
 }
