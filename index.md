@@ -1,6 +1,3 @@
-<link href="style.css" rel="stylesheet">
-
-{% include navbar.html %}
 
 
 
