@@ -1,9 +1,9 @@
 # Site navigation links
 - title: Home
-  url: /
+  url: /index/
   
-  - title: About
+- title: About
   url: /about/
   
-  - title: Additional software
+- title: Additional software
   url: /additionalSoftware/
