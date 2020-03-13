@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Home
+---
 
 
 <img src="pic_ninjo_logo.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
