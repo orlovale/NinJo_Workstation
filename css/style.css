@@ -130,7 +130,7 @@ body{
 footer{
  background-color: #11bbff; 
   height: 35px;
-  border-style: solid dotted dashed double;
+  border-style: solid none none none;
 }
 footer p{
   margin: 0 auto;  
