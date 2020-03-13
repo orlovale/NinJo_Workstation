@@ -4,10 +4,11 @@ body{
   width: 100%;
 }
 .content, 
-img{
+.bigLogoOnMainPage{
   width: 100%;
  max-width: 1100px;
  margin: 0 auto;
+ background-color: gray;
 }
 
 
