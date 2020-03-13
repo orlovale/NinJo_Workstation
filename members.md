@@ -1,8 +1,7 @@
-<link href="style.css" rel="stylesheet">
-
-{% include navbar.html %}
-
-<p style="margin: 60px 0px 0px 0px;" />
+---
+layout: default
+title: Project members
+---
 
 # A global partnership: the NinJo Consortium
 
