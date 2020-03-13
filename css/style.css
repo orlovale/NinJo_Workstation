@@ -27,7 +27,7 @@ body{
   display: flex;
   justify-content: space-between;
  margin: 0 auto;
- position: fixed
+ position: fixed;
  top: 0;
 }
 
