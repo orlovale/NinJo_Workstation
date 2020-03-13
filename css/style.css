@@ -3,7 +3,8 @@ body{
   font-family: Arial, Helvetica, sans-serif;  
   width: 100%;
 }
-.content{
+.content, 
+img{
   width: 100%;
  max-width: 1100px;
  margin: 0 auto;
