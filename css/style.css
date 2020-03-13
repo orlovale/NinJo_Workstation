@@ -112,10 +112,6 @@ body{
   color: white;
 }
 
-.dropdown:hover #arrow {
-  content: url("arrowDown.png");
-}
-
 /* Add a grey background to dropdown links on hover */
 .dropdown-content a:hover {
   background-color: #1a3c8a;
