@@ -14,7 +14,6 @@ body{
  background-color: gray;
 }
 
-
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: white;
@@ -30,7 +29,6 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
-
 
 #logo {
   width: 120px;
