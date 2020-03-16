@@ -121,8 +121,8 @@ margin-bottom: -50px;
   /* But also accounting for potential margin-bottom of last child */
   
 }
-placeholder{
-height: 50px;
+.placeholder{
+  height: 50px;
 }
 .footer{
   background-color: #11bbff;    
