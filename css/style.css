@@ -52,7 +52,9 @@ topnav button{
   font-size: 17px;
   margin-top: 13px;
 }
-
+.topnav a img{
+width: auto;
+}
 /* Add an active class to highlight the current page */
 .active {
   background-color: white;
@@ -76,7 +78,7 @@ topnav button{
   border: none;
   outline: none;
   color: #1a3c8a;
-  padding: 14px 16px;
+  padding: 14px 96px;
   background-color: inherit;
   font-family: inherit;
   margin-top: 13px;
