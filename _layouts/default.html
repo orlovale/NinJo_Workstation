@@ -4,13 +4,11 @@
     <meta charset="UTF-8" />
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-      <link rel="stylesheet" href="css/style.css" />
     <title>{{ page.title }}</title>
   </head>
   <body>
     <div class="topnav" id="myTopnav">
-      <a href="index.html" id="homebtn" class="active">
+      <a href="#home" id="homebtn" class="active">
         <img id="logo" src="Nj_s.png" alt="" />
       </a>
       <div class="dropdown">
@@ -35,6 +33,7 @@
         >&#9776;</a
       >
 
+      <link rel="stylesheet" href="css/style.css" />
       <script>
         function myFunction() {
           var x = document.getElementById("myTopnav");
@@ -46,11 +45,7 @@
         }
       </script>
     </div>
-    <div class="content">      
-      {{ content }}
-    </div>
-    <footer>
-      <p> Copyright <script>document.write(new Date().getFullYear())</script> Ninjo Workstation</p>
-    </footer>
+
+    {{ content }}
   </body>
 </html>
