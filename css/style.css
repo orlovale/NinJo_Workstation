@@ -41,7 +41,7 @@ margin-left: auto;
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav *{
   float: left;
   display: block;
   color: #1a3c8a;
