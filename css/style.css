@@ -129,10 +129,10 @@ margin-left: auto;
 
 .wrapper{
 min-height: 100vh;
-margin-bottom: -70px;  
+margin-bottom: -65px;  
 }
 .placeholder{
-  height: 70px;
+  height: 65px;
 }
 .footer{
   background-color: #11bbff;    
