@@ -12,14 +12,16 @@
   top: 0;
 }
 .content{
-padding-bottom: 50px;
+padding-bottom: 50px; 
+  min-height: 100%;
 }
 #logo {
   width: 120px;
   height: auto;
 }
 .bigLogoOnMainPage{
-height: 20px;
+margin-left: auto;
+  margin-right: auto;
 }
 #homebtn {
   padding: 0 16px;
