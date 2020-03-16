@@ -3,7 +3,11 @@ body{
   font-family: Arial, Helvetica, sans-serif; 
   margin 0;
 }
-.content p{
+
+.content p,
+.content h1,
+.content ul
+{
   width: 100%;
  max-width: 1100px;
  margin: 0 auto;
