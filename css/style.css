@@ -18,6 +18,9 @@ padding-bottom: 50px;
   width: 120px;
   height: auto;
 }
+.bigLogoOnMainPage{
+height: 20px;
+}
 #homebtn {
   padding: 0 16px;
 }
