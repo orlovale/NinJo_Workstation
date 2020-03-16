@@ -54,6 +54,7 @@ topnav button{
 }
 .topnav a img{
 width: auto;
+   margin 14px 96px;
 }
 /* Add an active class to highlight the current page */
 .active {
