@@ -11,8 +11,6 @@
   /*position: fixed;*/ /* <- disables dropdown. No idea why. */
   top: 0;
 }
-.content{
-}
 #logo {
   width: 120px;
   height: auto;
