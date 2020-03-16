@@ -110,15 +110,14 @@
 }
 
 footer {
-  background-color: #11bbff;
   height: 35px;
   border-width: 1px;
   border-style: solid none none none;
-  
   position: absolute;
   right: 0;
   bottom: 0;
-  left: 0;
+  left: 0;  
+  background-color: #11bbff;
   padding: 1rem;
   text-align: center;
 }
