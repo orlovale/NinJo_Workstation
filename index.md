@@ -4,9 +4,8 @@ title: Home
 ---
 
 
-<div class="bigLogoContainer">  
-  <img class="bigLogoOnMainPage" src="pic_ninjo_logo.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
-</div>
+
+<img class="bigLogoOnMainPage" src="pic_ninjo_logo.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
 
 # NinJo Workstation Software Highlights 
 
