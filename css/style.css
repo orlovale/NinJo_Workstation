@@ -138,9 +138,13 @@ body{
 footer{
  background-color: #11bbff; 
   height: 35px;
+<<<<<<< HEAD
   border-width: 1px;
   border-style: solid none none none;
   margin: 0;
+=======
+  border-style: solid dotted dashed double;
+>>>>>>> parent of e4eedd6... Update style.css
 }
 footer p{
   margin: auto;  
