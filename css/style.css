@@ -137,6 +137,7 @@ footer{
   margin: 0;
   position: fixed;
   bottom: 0;
+  width:100%;
 }
 footer p{
   margin: auto;  
