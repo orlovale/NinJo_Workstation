@@ -7,7 +7,7 @@ body{
 .topnav {
   background-color: white;
   overflow: hidden;
-  font-family: Arial, Helvetica, sans-serif;
+  
   display: flex;
   justify-content: space-between;
   width: 1100px;
