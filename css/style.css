@@ -133,10 +133,10 @@ margin-bottom: -50px;
   margin: 0;
 }
 footer p {
-  margin: auto;
-  width: 100%;
-  text-align: center;
-  height: 20px;
+  margin: 0;
+   position: absolute;               /* 2 */
+   top: 50%;                         /* 3 */
+   transform: translate(0, -50%)
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
