@@ -118,6 +118,8 @@ topnav button{
    z-index: 1;
    overflow: visible;   
    margin-left: 35px; 
+   height: 0;   
+   transition: height 1s;
 }
 
 /* Style the links inside the dropdown. */
@@ -138,16 +140,6 @@ topnav button{
     transition: background-color 1s, color 1s;  
 }
 
-@keyframes activate{
-  from {
-    background-color: white;
-    color: #1a3c8a;
-  }
-  to{
-    background-color: #1a3c8a;
-    color: white;
-  }
-}
 
 .dropdown:hover #arrow {
   content: url("arrowDown.png");
@@ -162,6 +154,8 @@ topnav button{
 /* Show the dropdown menu when the user moves the mouse over the dropdown button */
 .dropdown:hover .dropdown-content {
   display: block;
+   height: auto;
+   transition: height 1s;
 }
 
 .wrapper{
