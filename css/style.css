@@ -48,6 +48,7 @@ margin-left: auto;
 /* Style the links inside the navigation bar */
 .topnav a,
 topnav button{
+   background: transparent;
   display: block;
    float: left;
   color: #1a3c8a;
