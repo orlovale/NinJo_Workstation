@@ -65,10 +65,14 @@ topnav button{
    text-decoration: none;
    font-size: 17px;
    margin-top: 13px;
+     transition: background-color 1s, color 1s; 
+
 }
 .topnav a img{
    width: auto;
    margin 0px 56px;
+     transition: background-color 1s, color 1s; 
+
 }
 /* Add an active class to highlight the current page */
 .active {
@@ -100,6 +104,8 @@ topnav button{
   background-color: inherit;
   font-family: inherit;
   margin-top: 13px;
+     transition: background-color 1s, color 1s; 
+
 }
 
 /* Style the dropdown content (hidden by default) */
@@ -129,7 +135,7 @@ topnav button{
 .dropdown:hover .dropbtn {
   background-color: #1a3c8a;
   color: white;
-  animation: activate 1s; 
+    transition: background-color 1s, color 1s;  
 }
 
 @keyframes activate{
