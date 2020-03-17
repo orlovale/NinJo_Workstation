@@ -4,10 +4,6 @@ title: Home
 ---
 
 
-<div class="bigLogoContainer">  
-  <img class="bigLogoOnMainPage" src="pic_ninjo_logo.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
-</div>
-
 # NinJo Workstation Software Highlights 
 
 The NinJo Workstation System showing different types of meteorological data
