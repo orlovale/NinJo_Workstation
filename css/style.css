@@ -103,7 +103,7 @@ topnav button{
   padding: 14px 56px;
   background-color: inherit;
   font-family: inherit;
-  margin-top: 13px;
+  /*margin-top: 13px;*/
      transition: background-color 1s, color 1s; 
 
 }
