@@ -61,14 +61,14 @@ topnav button{
    float: left;
    color: #1a3c8a;
    text-align: center;
-   padding: 14px 96px;
+   padding: 14px 56px;
    text-decoration: none;
    font-size: 17px;
    margin-top: 13px;
 }
 .topnav a img{
    width: auto;
-   margin 14px 96px;
+   margin 14px 56px;
 }
 /* Add an active class to highlight the current page */
 .active {
