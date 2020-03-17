@@ -8,6 +8,7 @@ title: About
 
 [NinJo Workstation](index) is the official website of the NinJo Workstation Project. It contains General information on the NinJo Workstation software and related software systems as well as information for NinJo customers and will serve as a platform for information exchange in the future. Co-ordination of the website is done by EuMetSys.  Please see Member Services to get an overview over the NinJo Consortium Partners.
 <br/>
+<br/>
 **The website is coordinated by**
 
 EuMetSys<br/>
