@@ -45,6 +45,7 @@ margin-left: auto;
 .topnav a,
 topnav button{
   display: block;
+   float: left;
   color: #1a3c8a;
   text-align: center;
   padding: 14px 96px;
