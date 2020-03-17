@@ -49,6 +49,10 @@ margin-left: auto;
   color: #1a3c8a;
 }
 
+.bigLogo {
+  width: 100vw;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a,
 topnav button{
