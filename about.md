@@ -22,6 +22,7 @@ info(at)ebp.de<br/>
 
 Alexey Orlov
 <br/>
+<br/>
 **Legal aspects**
 
 Information is the main object of the website of the NinJo Workstation Project. We do not assume any responsibility for the accurateness or completeness of any content.
