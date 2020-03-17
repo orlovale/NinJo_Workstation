@@ -27,7 +27,6 @@ body{
    display: inline-block;
    text-align:center;
    width: fit-content;
-   margin: 0 auto;
    position: fixed;   
    top: 0;   
    left: 50%;
@@ -170,7 +169,8 @@ margin-bottom: -65px;
     display: block;
   }
   .topnav{
-   width: 100vw;
+   width: 100vw;     
+   margin: 0;
    }
 }
 
