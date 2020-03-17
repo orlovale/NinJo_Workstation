@@ -37,10 +37,6 @@ body{
   width: 120px;
   height: auto;
 }
-.bigLogoOnMainPage{
-margin-left: auto;
-  margin-right: auto;
-}
 #homebtn {
   padding: 0px 56px;
 }
@@ -80,6 +76,7 @@ topnav button{
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
   display: none;
+   width: 40px;
 }
 
 /* Dropdown container - needed to position the dropdown content */
