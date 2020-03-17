@@ -77,6 +77,7 @@ width: auto;
 .dropdown {
    float: left;
   overflow: visible;
+   margin-left: 15px; 
 }
 
 /* Style the dropdown button to fit inside the topnav */
