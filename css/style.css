@@ -14,7 +14,7 @@ body{
 }
 
 .topnav {
-  background-color: white;
+  background-color: transparent;
    display: inline-block;
    text-align:center;
    width: 1100px;
