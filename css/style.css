@@ -37,9 +37,11 @@ body{
 #logo {
   width: 120px;
   height: auto;
+   margin-top: 13px;
 }
 #homebtn {
   padding: 0px 56px;
+   margin: 0;
 }
 #arrow {
   content: url("arrowDown.png");
