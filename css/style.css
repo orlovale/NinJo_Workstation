@@ -41,7 +41,7 @@ margin-left: auto;
   margin-right: auto;
 }
 #homebtn {
-  padding: 0 16px;
+  padding: 14px 56px;
 }
 #arrow {
   content: url("arrowDown.png");
