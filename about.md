@@ -7,7 +7,7 @@ title: About
 # About this website
 
 [NinJo Workstation](index) is the official website of the NinJo Workstation Project. It contains General information on the NinJo Workstation software and related software systems as well as information for NinJo customers and will serve as a platform for information exchange in the future. Co-ordination of the website is done by EuMetSys.  Please see Member Services to get an overview over the NinJo Consortium Partners.
-<br>
+<br/>
 **The website is coordinated by**
 
 EuMetSys<br/>
@@ -16,11 +16,11 @@ Am Hamburger Bahnhof 4<br/>
 D-10557 Berlin<br/>
 Phone +49 30 120 86 82-0<br/>
 info(at)ebp.de<br/>
-<br>
+<br/>
 **Design**
 
 Alexey Orlov
-<br>
+<br/>
 **Legal aspects**
 
 Information is the main object of the website of the NinJo Workstation Project. We do not assume any responsibility for the accurateness or completeness of any content.
