@@ -129,6 +129,18 @@ topnav button{
 .dropdown:hover .dropbtn {
   background-color: #1a3c8a;
   color: white;
+  animation: activate 1s; 
+}
+
+@keyframes activate{
+  from {
+    background-color: white;
+    color: #1a3c8a;
+  }
+  to{
+    background-color: #1a3c8a;
+    color: white;
+  }
 }
 
 .dropdown:hover #arrow {
