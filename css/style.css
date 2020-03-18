@@ -79,7 +79,6 @@ topnav button{
  background-color: white;
  color: #1a3c8a;
 }
-
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
  display: none;
