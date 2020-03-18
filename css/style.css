@@ -160,7 +160,7 @@ topnav button{
 /* Show the dropdown menu when the user moves the mouse over the dropdown button */
 .dropdown:hover .dropdown-content {
  display: block;
-  height: 278px;
+  height: 282px;
 }
 .dropdown:hover .dropdown-content a {
   display: block;
