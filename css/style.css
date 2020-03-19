@@ -157,6 +157,10 @@ topnav button{
 }
 
 
+.dropdown:hover #arrow {
+ content: url("arrowDown.png");
+}
+
 /* Add a grey background to dropdown links on hover */
 .dropdown-content a:hover {
  background-color: #1a3c8a;
@@ -168,7 +172,7 @@ topnav button{
 /* Show the dropdown menu when the user moves the mouse over the dropdown button */
 .dropdown:hover .dropdown-content {
  display: block;
-  height: 276px;
+  height: 282px;
 }
 .dropdown:hover .dropdown-content a {
   display: block;
