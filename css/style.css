@@ -50,6 +50,9 @@ body{
 
 .bigLogo {
  width: 100vw;
+ max-width: 2000px;
+ margin: 0 auto;
+ display: block;
 }
 
 /* Style the links inside the navigation bar */
