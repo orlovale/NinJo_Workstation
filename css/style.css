@@ -24,14 +24,20 @@ body{
 }
 
 .topnav {
-  background-color: rgba(255, 255, 255, 0.8);
-  display: inline-block;
+  display: block;
   text-align:center;
-  width: fit-content;
+}
+
+.tn_container{
   position: fixed;   
   top: 0;   
-  left: 50%;
-  margin-left: -550px;
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 0.8);
+  height: auto;
+  display: flex;
+  justify-content: center;  
+ border-bottom: 1px solid #1a3c8a;
+  
 }
 #logo {
  width: 120px;
